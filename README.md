@@ -2,7 +2,7 @@
 Program for learning English by pictures
 
 This program I wrote for remembering English words by pictures (using visualization).
-For use, you should select a special file (example files are with the program) and load it, then click on the generate button and you will see the result.
+For use, you should select a special file (example files are with the program) and load it into the program, then click on the generate button and you will see the result.
 
 Download here: https://drive.google.com/open?id=1iWSy2msf4BiyGw26-_rWwvhPnnq3_bgQ
 
